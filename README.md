@@ -1,0 +1,1 @@
+This exmple shows how redux works fundamentally.You just open index.html and todoIndex.html and see how redux works.

@@ -1,0 +1,9 @@
+.todoItem{
+    width: 80px;
+    height: 80px;
+   
+    background-color: yellow;
+    text-align: center;
+    border: 2px;
+    float: left;
+}
